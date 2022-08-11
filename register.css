@@ -181,6 +181,9 @@ body{
 label{
     color: #fff;
 }
+.row{
+    display: contents;
+}
 
 
 
@@ -193,8 +196,8 @@ label{
         margin: -10% 0;
     }
     .row {
+        display: contents;
         margin: 0;
-
 
     }
 
