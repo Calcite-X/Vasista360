@@ -211,9 +211,9 @@ body {
 }
 
 .tutorlogo {
-    height: 60vh;
-    margin-top: 10px;
-    margin-left: -10%;
+    height: 70vh;
+    margin-top: -100px;
+    margin-left: -15%;
 }
 
 .container3 {
@@ -565,9 +565,8 @@ body {
     }
 
     .tutorlogo {
-        height: 150px;
-        width: 170px;
-        margin-top: -140vh;
+        height: 40vh;
+        margin-top: -160vh;
         margin-left: 27%;
     }
 
