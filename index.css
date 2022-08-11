@@ -213,7 +213,9 @@ body {
 .tutorlogo {
     height: 70vh;
     margin-top: -100px;
-    margin-left: -15%;
+    margin-left: -13%;
+    background-color: #a9b7b7;
+    border-radius: 100%;
 }
 
 .container3 {
